@@ -2,9 +2,8 @@
 
 I am a passionate full-stack developer with over 7 years of experience, specializing in crafting dynamic and user-friendly web applications. My strong background in front-end technologies enables me to transform complex requirements into intuitive user experiences. 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sarahaime&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaime&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💻 Tech Stack
 
