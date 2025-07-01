@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Sarahaime!
+### 👋 Hi, I'm Sarah!
 
 I am a passionate full-stack developer with over 7 years of experience, specializing in crafting dynamic and user-friendly web applications. My strong background in front-end technologies enables me to transform complex requirements into intuitive user experiences. 
 
@@ -33,8 +33,17 @@ I am a passionate full-stack developer with over 7 years of experience, speciali
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarahaime&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sarahaime&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahaime&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sarahaime&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
